@@ -1,4 +1,4 @@
-<img src="profileImage.jpg" alt= "profileImage" width="200" align="left" style="padding:0px 10px 00px 0px"></img>
+<img src="profileImage.jpg" alt= "profileImage" width="200" align="left" style="padding:0px 10px 00px 0px">
 
 ## Rybak Alexander
 **Email:** alexander.rybak2021@gmail.com  
